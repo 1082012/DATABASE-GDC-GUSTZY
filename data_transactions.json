@@ -1,5 +1,20 @@
 [
   {
+    "id": 1774526643424,
+    "idG": "GZ1773331469234",
+    "idP": "qAnyOH8mFS0aRM3hzizq",
+    "cust": "GUSTZUI",
+    "prod": "PLN 50.000",
+    "type": "Digital",
+    "price": 51825,
+    "sn": "5924-0031-6198-8942-7069/PT TRI INSAN KARYA / R1 / 2200VA/32.1KWH",
+    "img1": null,
+    "img2": null,
+    "timestamp": "2026-03-26T12:04:03.424Z",
+    "created_by": "M. Gusti Faiz",
+    "role": "admin"
+  },
+  {
     "id": 1774526562133,
     "idG": "GZ1773377527447",
     "idP": "WAzUKophhb3wj3sA8nrw",
